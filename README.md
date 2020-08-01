@@ -6,7 +6,7 @@ We use these tools:
 * https://github.com/sitemule/noxDB - The JSON parsing library. Service program is also in this repo so you can restore the save file.
   1. Copy `jsonxml.pkg` to IFS
   2. `CPYFRMSTMF FROMSTMF('jsonxml.pkg') TOMBR('/QSYS.LIB/PUNKAPI.LIB/PACKAGE.FILE') MBROPT(*REPLACE) CVTDTA(*NONE)`
-  3. `RST DEV('/QSYS.LIB/PUNKAPI.LIB/PACKAGE.FILE') OBJ(('/QSYS.LIB/PUNKAPI.LIB/PUNKAPI.SRVPGM'))`
+  3. `RST DEV('/QSYS.LIB/PUNKAPI.LIB/PACKAGE.FILE') OBJ(('/QSYS.LIB/PUNKAPI.LIB/JSONXML.SRVPGM'))`
 * https://punkapi.com/documentation/v2 - The API we use in the workshop.
 
 ### Videos
