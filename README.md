@@ -18,3 +18,5 @@ We use these tools:
 5. [Our first test program](https://www.youtube.com/watch?v=3Op3eQlQoiA&list=PLNl31cqBafComzOAedzgOSNb7dlsDGvv5&index=5)
 6. [Cleanup](https://www.youtube.com/watch?v=giiPqXiJFbI&list=PLNl31cqBafComzOAedzgOSNb7dlsDGvv5&index=7&t=0s)
 7. [Prettier APIs](https://www.youtube.com/watch?v=B8qSJC21RSw&list=PLNl31cqBafComzOAedzgOSNb7dlsDGvv5&index=8&t=0s)
+8. [Error Handling](https://www.youtube.com/watch?v=9X1Wu7IftrU&list=PLNl31cqBafComzOAedzgOSNb7dlsDGvv5&index=9&t=0s)
+9. [Get by ID](https://www.youtube.com/watch?v=AZU6Pagb_hg&list=PLNl31cqBafComzOAedzgOSNb7dlsDGvv5&index=10&t=0s)
