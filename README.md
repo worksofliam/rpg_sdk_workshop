@@ -1,4 +1,4 @@
-This workshop will show you how to create an RPG SDK (a set of procedures to work with a web API) from scratch.
+This workshop will show you how to create an RPG SDK (a set of procedures to work with/consume a web API) from scratch.
 
 We use these tools:
 
